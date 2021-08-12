@@ -1,0 +1,7 @@
+C:\Users\HTC\source\repos\Projeto3\Projeto3\bin\Debug\Projeto3.exe.config
+C:\Users\HTC\source\repos\Projeto3\Projeto3\bin\Debug\Projeto3.exe
+C:\Users\HTC\source\repos\Projeto3\Projeto3\bin\Debug\Projeto3.pdb
+C:\Users\HTC\source\repos\Projeto3\Projeto3\obj\Debug\Projeto3.csproj.AssemblyReference.cache
+C:\Users\HTC\source\repos\Projeto3\Projeto3\obj\Debug\Projeto3.csproj.CoreCompileInputs.cache
+C:\Users\HTC\source\repos\Projeto3\Projeto3\obj\Debug\Projeto3.exe
+C:\Users\HTC\source\repos\Projeto3\Projeto3\obj\Debug\Projeto3.pdb
